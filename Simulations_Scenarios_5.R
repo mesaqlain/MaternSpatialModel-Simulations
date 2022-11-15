@@ -28,11 +28,6 @@ library(spaMM)
 
 reps <- 3 # for 5(a), varies between 3, 4, 5, and 6. For 5(b) keep fixed
 
-# Load necessary packages
-library(Matrix)
-library(lgcp) #For circulant() function
-library(spaMM)
-
 
 ################################
 ##### SIMULATE DATA ############
